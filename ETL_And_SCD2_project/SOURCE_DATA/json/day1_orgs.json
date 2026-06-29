@@ -1,0 +1,245 @@
+[
+  {
+    "org_nk": "ORG-1001",
+    "org_name": "Sunrise Textiles Private Limited",
+    "address_line1": "12 Textile Park",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "postal_code": "641001",
+    "contact_email": "contact@sunrisetextiles.com",
+    "phone": "+91-422-5550199",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1004",
+    "org_name": "Spark EduTech",
+    "address_line1": "1 Innovation Drive",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "postal_code": "560100",
+    "contact_email": "info@sparkedutech.com",
+    "phone": "+91-80-5550104",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1003",
+    "org_name": "TechNova Solutions",
+    "address_line1": "45 IT Park",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "postal_code": "560001",
+    "contact_email": "INFO@TECHNOVA.COM",
+    "phone": "+91-080-5550123",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1004",
+    "org_name": "BrightFuture Edu",
+    "address_line1": "22 Knowledge St",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postal_code": "500001",
+    "contact_email": "contact@brightfuture.edu",
+    "phone": "+91-040-5550456",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1005",
+    "org_name": "AgroTech Foods",
+    "address_line1": "Plot 5 Agro Park",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postal_code": "411001",
+    "contact_email": "SUPPORT@AGROTECH.COM",
+    "phone": "+91-020-5550789",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1006",
+    "org_name": "MediCare Pharma",
+    "address_line1": "Pharma Zone",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postal_code": "600001",
+    "contact_email": "hello@medicare.com",
+    "phone": "+91-044-5550111",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1007",
+    "org_name": "EcoEnergy Pvt Ltd",
+    "address_line1": "7 Solar Street",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "postal_code": "302001",
+    "contact_email": "INFO@ECOENERGY.COM",
+    "phone": "+91-141-5550222",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1008",
+    "org_name": "UrbanStyle Fashion",
+    "address_line1": "Mall Road",
+    "city": "Delhi",
+    "state": "Delhi",
+    "postal_code": "110001",
+    "contact_email": "care@urbanstyle.com",
+    "phone": "+91-011-5550333",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1009",
+    "org_name": "HealthPlus Hospitals",
+    "address_line1": "Ring Road",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "postal_code": "226001",
+    "contact_email": "SUPPORT@HEALTHPLUS.IN",
+    "phone": "+91-0522-5550444",
+    "status": "Active"
+  },
+  {
+    "org_nk": null,
+    "org_name": "NextGen Robotics",
+    "address_line1": "Tech Hub",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "postal_code": "201301",
+    "contact_email": "contact@nextgen.com",
+    "phone": "+91-120-5550555",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1011",
+    "org_name": "TravelEase Pvt Ltd",
+    "address_line1": "Airport Road",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postal_code": "400001",
+    "contact_email": "INFO@TRAVELEASE.COM",
+    "phone": "+91-022-5550666",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1012",
+    "org_name": "FreshMart Supermarket",
+    "address_line1": "Main Street",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "postal_code": "440001",
+    "contact_email": "CUSTOMER@FRESHMART.IN",
+    "phone": "+91-0712-5550777",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1013",
+    "org_name": "BuildWell Constructions",
+    "address_line1": "Site Office",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "postal_code": "380001",
+    "contact_email": null,
+    "phone": "+91-079-5550888",
+    "status": "Active"
+  },
+  {
+    "org_nk": null,
+    "org_name": null,
+    "address_line1": "Finance Tower",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "postal_code": "160001",
+    "contact_email": "INFO@FINSERVE.COM",
+    "phone": "+91-0172-5550999",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1015",
+    "org_name": "EduWorld Academy",
+    "address_line1": "Learning Hub",
+    "city": "Patna",
+    "state": "Bihar",
+    "postal_code": "800001",
+    "contact_email": "HELLO@EDUWORLD.IN",
+    "phone": "+91-0612-5550001",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1016",
+    "org_name": "CityRide Transport",
+    "address_line1": "Bus Depot",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "postal_code": "700001",
+    "contact_email": "support@cityride.com",
+    "phone": "+91-033-5550002",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1017",
+    "org_name": "AquaPure Water",
+    "address_line1": "Water Park",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "postal_code": "452001",
+    "contact_email": "INFO@AQUAPURE.COM",
+    "phone": "+91-0731-5550003",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1018",
+    "org_name": null,
+    "address_line1": "Gadget Mall",
+    "city": "Surat",
+    "state": "Gujarat",
+    "postal_code": "395001",
+    "contact_email": "HELLO@SMARTHOME.IN",
+    "phone": "+91-0261-5550004",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": null,
+    "org_name": "OrganicLife Farms",
+    "address_line1": "Farm Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "postal_code": "462001",
+    "contact_email": "SUPPORT@ORGANICLIFE.COM",
+    "phone": "+91-0755-5550005",
+    "status": "Active"
+  },
+  {
+    "org_nk": "ORG-1020",
+    "org_name": null,
+    "address_line1": "IT Street",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "postal_code": "122001",
+    "contact_email": "CONTACT@VISIONTECH.IN",
+    "phone": "+91-0124-5550006",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": "ORG-1015",
+    "org_name": "EduWorld Academy",
+    "address_line1": "Learning Hub",
+    "city": "Patna",
+    "state": "Bihar",
+    "postal_code": "800001",
+    "contact_email": "HELLO@EDUWORLD.IN",
+    "phone": "+91-0612-5550001",
+    "status": "Inactive"
+  },
+  {
+    "org_nk": null,
+    "org_name": "Unknown Org",
+    "address_line1": "Unknown Street",
+    "city": null,
+    "state": "Unknown",
+    "postal_code": null,
+    "contact_email": "INVALID@EMAIL",
+    "phone": null,
+    "status": "Active"
+  }
+
+]

@@ -1,0 +1,13 @@
+<Organizations>
+  <Organization>
+    <org_nk>ORG-1002</org_nk>
+    <org_name>GreenFarm Organics</org_name>
+    <address_line1>Plot 9, Agro Hub</address_line1>
+    <city>Mysore</city>
+    <state>Karnataka</state>
+    <postal_code>570001</postal_code>
+    <contact_email>hello@greenfarm.com</contact_email>
+    <phone>+91-821-5550199</phone>
+    <status>Active</status>
+  </Organization>
+</Organizations>

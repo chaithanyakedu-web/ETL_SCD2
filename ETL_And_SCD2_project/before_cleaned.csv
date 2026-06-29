@@ -1,0 +1,8 @@
+org_nk,org_name,address_line1,city,state,postal_code,contact_email,phone,status,created_date_dmy,annual_turnover_cr,company_type,turnover_evaluation_date,valid_till,current_flag
+ORG-1001,Sunrise Textiles Pvt Ltd,12 Textile Park,Coimbatore,Tamil Nadu,641001,hello@gmail.com,+914225550100,Active,14-08-1997,153,MNC,14-04-1999,31-12-9999,1
+ORG-1002,GreenFarm Organics,"Plot 9, Agro Hub",Mysore,Karnataka,570001,contact@gmail.com,+91825550102,Active,29-09-2005,118,MNC,28-02-2007,31-12-9999,1
+ORG-1056,Sunrise Textiles Pvt Ltd,"Plot 9, Agro Hub",Coimbatore,Tamil Nadu,641001,HELLO@gmail.com,+914225550100,Active,17-05-2021,157,MNC,17-11-2023,31-12-9999,1
+ORG-1002,,"Plot 9, Agro Hub",Mysore,Karnataka,570001,CONTACT@gmail.com,+918215550102,Active,16-09-2015,55,Startup,16-06-2017,31-12-9999,1
+ORG-1003,BlueTech Solutions,45 Tech Avenue,,Karnataka,560001,INFO@gmail.com,+91-80-5550103,Inactive,17-09-2016,98,Startup,17-07-2018,31-12-9999,1
+ORG-1004,EverFresh Dairy,23 Dairy Road,Chennai,,600001,SALES@gmail.com,+91445550104,Active,14-12-2018,130,MNC,14-11-2020,31-12-9999,1
+ORG-1005,Future Energy Systems,88 Solar Park,Hyderabad,Telangana,,CONTACT@gmail.com,+91405550105,Suspended,16-07-2001,129,MNC,16-02-2003,31-12-9999,1

@@ -1,0 +1,13 @@
+<Organizations>
+  <Organization>
+    <org_nk>ORG-1003</org_nk>
+    <org_name>BlueWave Logistics</org_name>
+    <address_line1>Route 5, Industrial Estate</address_line1>
+    <city>Vishakhapatnam</city>
+    <state>Andhra Pradesh</state>
+    <postal_code>530001</postal_code>
+    <contact_email>support@bluewave.in</contact_email>
+    <phone>+91-891-5550103</phone>
+    <status>Active</status>
+  </Organization>
+</Organizations>
